@@ -13,7 +13,7 @@
 5. at the end it will  give you some number, past them in a notepad
 6. open the `MPU6050_DMP6` and go to 205 line
 7. enter that numbers there
-##And done!
+## And done!
 ---------------------------------
 > if you can't find `MPU6050_DMP6` and `IMU_Zero` they are in code folder of this repository
 > if  you need more imformation you can visit [howtomechatronics](https://howtomechatronics.com/how-it-works/electrical-engineering/mems-accelerometer-gyrocope-magnetometer-arduino/).
